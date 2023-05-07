@@ -32,7 +32,7 @@ To use the login page in your own web application, follow these steps:
 
 ## Screenshots
 
-![Login Page](screenshots/Screenshot 2023-04-13 224201.png)
+![Loginpage-1](screenshots/Screenshot 2023-04-13 224201.png)
 
 ## Contributing
 
