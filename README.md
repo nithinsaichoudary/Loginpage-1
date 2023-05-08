@@ -31,7 +31,7 @@ To use the login page in your own web application, follow these steps:
 
 
 ## Screenshots
-###Desktop
+### Desktop
 ![Loginpage-1](https://github.com/nithinsaichoudary/Loginpage-1/blob/main/screenshots/Screenshot%202023-04-13%20224201.png)
 ### Mobile 
 <img src ="https://github.com/nithinsaichoudary/Loginpage-1/blob/main/screenshots/IMG_1396.jpeg"  width=30% height=30%>
